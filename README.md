@@ -1,4 +1,4 @@
-# MyEvents
+# My Talk Slides
 
 Community Event Slides and Demo contains in this repository
 
